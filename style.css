@@ -1,0 +1,97 @@
+/* a minimalist set of CSS resets */
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 1rem;
+  font-family: sans-serif;
+  line-height: 1.5;
+  background-color: darkred;
+  color: deepskyblue;
+}
+
+h1 {
+  font-family: Brush Script MT, cursive;
+}
+
+button {
+  padding: 11px;
+  border-radius: 18px;
+}
+
+#gameButtonArea > button {
+  width:200px;
+  height:200px;
+  margin:2px;
+}
+
+#button1 {
+    background:cyan;
+}
+#button1:active, #button1.lit {
+    background:hotpink;
+}
+
+#button2 {
+    background:indigo;
+}
+#button2:active, #button2.lit {
+    background:tomato;
+}
+
+#button3 {
+    background:pink;
+}
+#button3:active, #button3.lit {
+    background:red;
+}
+
+#button4 {
+    background:springgreen;
+}
+#button4:active, #button4.lit {
+    background:violet;
+}
+
+#button5 {
+    background:deeppink;
+}
+#button5:active, #button5.lit {
+    background:greenyellow;
+}
+
+#button6 {
+    background:orangered;
+}
+#button6:active, #button6.lit {
+    background:teal;
+}
+
+#button7 {
+    background:yellow;
+}
+#button7:active, #button7.lit {
+    background:violet;
+}
+
+#button8 {
+    background:darkgreen;
+}
+#button8:active, #button8.lit {
+    background:crimson;
+}
+
+button:hover {
+  background-color: darkorange;
+}
+
+.hidden {
+  display: none;
+}
