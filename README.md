@@ -71,7 +71,7 @@ I would definitely spend a good amount of time adding features to my project to 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording] https://www.loom.com/share/a64a8b01b08245c48eaff2aa73922eb0
 
 
 ## License
