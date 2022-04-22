@@ -50,7 +50,9 @@ http://g.recordit.co/lyUPr8R3fk.gif
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
 https://teropa.info/blog/2016/08/10/frequency-and-pitch.html 
+
 https://www.w3schools.com/cssref/css_colors.asp 
+
 I used these websites for finding the font and color selections for my game. I also used a frequency pitch toner to select which pitches that I wanted for my game. Also breif research and youtube videos helped in adding extra features to my game.
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
